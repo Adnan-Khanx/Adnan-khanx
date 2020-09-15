@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Adnan Khan 
+Hi, I'm Adnan Khan,
 Data enthusiast with an ability to turn the data into actionable insights, Always try to learn like models of Machine Learning :smile:
 
 I work on :computer:
