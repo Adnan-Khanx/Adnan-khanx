@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Adnan Khan,
-Data enthusiast with an ability to turn the data into actionable insights, Always try to learn like models of Machine Learning :smile:
+Data enthusiast with an ability to turn the data into actionable insights, Teach machines how to learn and always try to learn like models of Machine Learning :smile:
 
 I work on :computer:
 * #### Machine Learning
