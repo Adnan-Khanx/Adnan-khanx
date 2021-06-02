@@ -23,7 +23,7 @@ I'm currently working on :computer:
 * #### Deep Learning
 * #### Computer Vision
 <br>
-***Where to find me***
+**Where to find me**
  <p align="center">
   <a href="https://www.linkedin.com/in/adnan-khanx/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan-khanx"></a>
   <a href="mailto:madnankhan2405@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="madnankhan2405@gmail.com"></a>
