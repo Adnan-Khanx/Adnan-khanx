@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
-I'm a Co-Founder at **Encoder Bytes** and a Data enthusiast with an ability to turn the data into actionable insights, I love to teach machines how to learn like humans and hold a passion of learning, try to learn like Machine Learning models :smile:
+I'm a Data enthusiast with an ability to turn the data into actionable insights, I love to teach machines how to learn like humans and hold a passion of learning, try to learn like Machine Learning models :smile:
 
 I'm currently working on :computer:
 * #### Machine Learning
