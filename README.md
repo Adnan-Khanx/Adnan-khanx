@@ -20,8 +20,7 @@ I'm a Data enthusiast with an ability to turn the data into actionable insights,
 I'm currently working on :computer:
 * #### Machine Learning
 * #### Data Science
-* #### Deep Learning
-* #### Computer Vision
+* #### Data Engineering
 <br>
 Where to find me
  <p align="center">
